@@ -1,3 +1,4 @@
+<img width="448" height="417" alt="image" src="https://github.com/user-attachments/assets/06d832ad-b89b-4101-8d5a-b6a6475d8f31" />
 
 # Forest Fire Weather Index (FWI) Prediction – ML + Flask
 
